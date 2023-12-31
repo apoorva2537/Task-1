@@ -1,0 +1,8 @@
+#products {
+  margin-top: 20px;
+}
+.product-list div {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
